@@ -1,0 +1,136 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do Pract1_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/DetectorFlanco.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity DetectorFlanco
+# -- Compiling architecture behavioral of DetectorFlanco
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/RegParSer.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegParSer
+# -- Compiling architecture behavioral of RegParSer
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/CalcParidad.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity CalcParidad
+# -- Compiling architecture behavioral of CalcParidad
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/multiplexor.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity multiplexor
+# -- Compiling architecture behavioral of multiplexor
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador1bit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Contador1bit
+# -- Compiling architecture behavioral of Contador1bit
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador8bit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Contador8bit
+# -- Compiling architecture behavioral of Contador8bit
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/UnidadControl.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity UnidadControl
+# -- Compiling architecture behavioral of UnidadControl
+# -- Loading entity DetectorFlanco
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/pract1.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Pract1
+# -- Compiling architecture behavioral of Pract1
+# -- Loading entity RegParSer
+# -- Loading entity CalcParidad
+# -- Loading entity multiplexor
+# -- Loading package NUMERIC_STD
+# -- Loading entity Contador8bit
+# -- Loading entity Contador1bit
+# -- Loading entity UnidadControl
+# 
+# vcom -93 -work work {C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Pract1_vhd_tst
+# -- Compiling architecture Pract1_vhd_tst_arc of Pract1_vhd_tst
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneii -L rtl_work -L work -voptargs="+acc"  Pract1_vhd_tst
+# vsim -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneii -L rtl_work -L work -voptargs=\"+acc\" -t 1ps Pract1_vhd_tst 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.pract1_vhd_tst(pract1_vhd_tst_arc)
+# Loading work.pract1(behavioral)
+# Loading work.regparser(behavioral)
+# Loading work.calcparidad(behavioral)
+# Loading work.multiplexor(behavioral)
+# Loading work.contador8bit(behavioral)
+# Loading work.contador1bit(behavioral)
+# Loading work.unidadcontrol(behavioral)
+# Loading work.detectorflanco(behavioral)
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: stic  Hostname: AA25LSD2P06  ProcessID: 10568
+# 
+#           Attempting to use alternate WLF file "./wlft5y0bh9".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlft5y0bh9
+# 
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /pract1_vhd_tst/i1/i5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /pract1_vhd_tst/i1/i4
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /pract1_vhd_tst/i1/i5
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 1  Instance: /pract1_vhd_tst/i1/i4
+# ** Failure: Fin de la simulacion
+#    Time: 145139661 ns  Iteration: 0  Process: /pract1_vhd_tst/always File: C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht
+# Break in Process always at C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht line 100
+# Simulation Breakpoint: Break in Process always at C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht line 100
+# MACRO ./Pract1_run_msim_rtl_vhdl.do PAUSED at line 24

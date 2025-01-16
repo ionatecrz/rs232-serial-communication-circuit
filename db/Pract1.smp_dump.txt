@@ -1,0 +1,12 @@
+
+State Machine - |Pract1|UnidadControl:UnidadControl|DetectorFlanco:i1|estado_act
+Name estado_act.Esp0 estado_act.Pulso estado_act.Esp1 
+estado_act.Esp1 0 0 0 
+estado_act.Pulso 0 1 1 
+estado_act.Esp0 1 0 1 
+
+State Machine - |Pract1|CalcParidad:i2|estado_act
+Name estado_act.Impar estado_act.Par estado_act.Reposo 
+estado_act.Reposo 0 0 0 
+estado_act.Par 0 1 1 
+estado_act.Impar 1 0 1 

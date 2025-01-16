@@ -1,0 +1,338 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ionat\Documents\ICAI\2023-2024\2do Cuatri\Sistemas Digitales II\Lab\Practicas\Pract1\simulation\modelsim
+Ecalcparidad
+Z1 w1705951706
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\ionat\Documents\ICAI\2023-2024\2do Cuatri\Sistemas Digitales II\Lab\Practicas\Pract1\simulation\modelsim
+Z5 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/CalcParidad.vhd
+Z6 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/CalcParidad.vhd
+l0
+L4
+V]G7dR8L_gf<W3oOGSboQa2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1737032472.037000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/CalcParidad.vhd|
+Z10 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/CalcParidad.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 c6^aGz29LF6I?8?<dA9XG1
+!i10b 1
+Abehavioral
+R2
+R3
+Z13 DEx4 work 11 calcparidad 0 22 ]G7dR8L_gf<W3oOGSboQa2
+l19
+L14
+Vijb3d9Sm@YCGB@XB=IB203
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 l?Hgh]Y3=1KGMASOii:B@1
+!i10b 1
+Econtador1bit
+Z14 w1706288593
+Z15 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z16 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador1bit.vhd
+Z17 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador1bit.vhd
+l0
+L5
+V30ONQo^RGMM:o[I@2;<oD0
+R7
+31
+Z18 !s108 1737032472.213000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador1bit.vhd|
+Z20 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador1bit.vhd|
+R11
+R12
+!s100 YY>Rm3@KN;7iYBZlKY1:g1
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z21 DEx4 work 12 contador1bit 0 22 30ONQo^RGMM:o[I@2;<oD0
+l15
+L13
+Vg0HK>af8Z3oDF19TeFOEN2
+R7
+31
+R18
+R19
+R20
+R11
+R12
+!s100 N6gkO7^8lmCNeV2H=NUTX2
+!i10b 1
+Econtador8bit
+Z22 w1706533097
+R15
+R2
+R3
+R4
+Z23 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador8bit.vhd
+Z24 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador8bit.vhd
+l0
+L5
+V6DbJ90Kc14;o^T9LKQI]D2
+R7
+31
+Z25 !s108 1737032472.293000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador8bit.vhd|
+Z27 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/Contador8bit.vhd|
+R11
+R12
+!s100 :PEOoKQ4Y<Q2K[=0zmoQ80
+!i10b 1
+Abehavioral
+R15
+R2
+R3
+Z28 DEx4 work 12 contador8bit 0 22 6DbJ90Kc14;o^T9LKQI]D2
+l15
+L13
+V<TJZZiJR^hS]fT2?gEn4n3
+R7
+31
+R25
+R26
+R27
+R11
+R12
+!s100 Q8;finZR`IeUk83;7^aio2
+!i10b 1
+Edetectorflanco
+Z29 w1700755258
+R2
+R3
+R4
+Z30 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/DetectorFlanco.vhd
+Z31 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/DetectorFlanco.vhd
+l0
+L4
+VIbF9k9?0Pce;0lZInZCbZ0
+R7
+31
+Z32 !s108 1737032471.844000
+Z33 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/DetectorFlanco.vhd|
+Z34 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/DetectorFlanco.vhd|
+R11
+R12
+!s100 EaJ^``JcT3ZG<7=eQ=:750
+!i10b 1
+Abehavioral
+R2
+R3
+Z35 DEx4 work 14 detectorflanco 0 22 IbF9k9?0Pce;0lZInZCbZ0
+l16
+L12
+VJXc0DK6zUMdMiiB6X1=``1
+R7
+31
+R32
+R33
+R34
+R11
+R12
+!s100 ^33J5DXjIk74C:bOY82hf3
+!i10b 1
+Emultiplexor
+Z36 w1705353156
+R2
+R3
+R4
+Z37 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/multiplexor.vhd
+Z38 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/multiplexor.vhd
+l0
+L4
+VeXjAlzg5>YZaL>ReWV<7I2
+R7
+31
+Z39 !s108 1737032472.129000
+Z40 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/multiplexor.vhd|
+Z41 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/multiplexor.vhd|
+R11
+R12
+!s100 KZnIj<EjAYT`PIaHaC^Li1
+!i10b 1
+Abehavioral
+R2
+R3
+Z42 DEx4 work 11 multiplexor 0 22 eXjAlzg5>YZaL>ReWV<7I2
+l13
+L12
+V>B55>lS5:j3N?U[CefZ<b1
+R7
+31
+R39
+R40
+R41
+R11
+R12
+!s100 1BFU_:l[B`IZL;bAhR6z63
+!i10b 1
+Epract1
+Z43 w1706005120
+R2
+R3
+R4
+Z44 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/pract1.vhd
+Z45 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/pract1.vhd
+l0
+L4
+V<:ONBB>:F`2N@:[EBW7EP0
+R7
+31
+Z46 !s108 1737032472.460000
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/pract1.vhd|
+Z48 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/pract1.vhd|
+R11
+R12
+!s100 0Ho3FL[a[29d]iQF1ECmm3
+!i10b 1
+Abehavioral
+Z49 DEx4 work 13 unidadcontrol 0 22 >dmdJn6VKZb<kANNcCaY_0
+R21
+R15
+R28
+R42
+R13
+Z50 DEx4 work 9 regparser 0 22 FiKEhe>T[dZHJXE]<1jKi3
+R2
+R3
+DEx4 work 6 pract1 0 22 <:ONBB>:F`2N@:[EBW7EP0
+l19
+L13
+V0B`6=PJV8OLBURBU`k6G_1
+R7
+31
+R46
+R47
+R48
+R11
+R12
+!s100 RLIZPnO3Ri7QAb`TgSAX?3
+!i10b 1
+Epract1_vhd_tst
+Z51 w1707039827
+R15
+Z52 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z53 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z54 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht
+Z55 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht
+l0
+L6
+V=?Le<DKE4ig2H@I^EckkU2
+!s100 D?[[;Jb7o0H>nA9bUHlHZ3
+R7
+31
+!i10b 1
+Z56 !s108 1737032472.545000
+Z57 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht|
+Z58 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/simulation/modelsim/Pract1.vht|
+R11
+R12
+Apract1_vhd_tst_arc
+R15
+R52
+R53
+R2
+R3
+DEx4 work 14 pract1_vhd_tst 0 22 =?Le<DKE4ig2H@I^EckkU2
+l29
+L9
+V`NQ0?bXz95PGkOZ@PGLMH3
+!s100 SgP_dzQU29?485J[0Ujzz1
+R7
+31
+!i10b 1
+R56
+R57
+R58
+R11
+R12
+Eregparser
+Z59 w1705920970
+R2
+R3
+R4
+Z60 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/RegParSer.vhd
+Z61 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/RegParSer.vhd
+l0
+L4
+VFiKEhe>T[dZHJXE]<1jKi3
+R7
+31
+Z62 !s108 1737032471.951000
+Z63 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/RegParSer.vhd|
+Z64 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/RegParSer.vhd|
+R11
+R12
+!s100 2o4zm`BEYk@OGP;HR:QPb0
+!i10b 1
+Abehavioral
+R2
+R3
+R50
+l19
+L15
+VF5jWbW^`Y25HeJ6gJkB8]2
+R7
+31
+R62
+R63
+R64
+R11
+R12
+!s100 8Ge8HNFJGoGcf;<@33L5l0
+!i10b 1
+Eunidadcontrol
+Z65 w1706004030
+R2
+R3
+R4
+Z66 8C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/UnidadControl.vhd
+Z67 FC:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/UnidadControl.vhd
+l0
+L4
+V>dmdJn6VKZb<kANNcCaY_0
+R7
+31
+Z68 !s108 1737032472.379000
+Z69 !s90 -reportprogress|300|-93|-work|work|C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/UnidadControl.vhd|
+Z70 !s107 C:/Users/ionat/Documents/ICAI/2023-2024/2do Cuatri/Sistemas Digitales II/Lab/Practicas/Pract1/UnidadControl.vhd|
+R11
+R12
+!s100 Ra82fL>7oY4L48Z[6n5C`2
+!i10b 1
+Abehavioral
+R35
+R2
+R3
+R49
+l26
+L21
+Vgm^KXNh7;G0KXgNjDXn?F0
+R7
+31
+R68
+R69
+R70
+R11
+R12
+!s100 ^nRinURIOCXfYi_0[[zDJ1
+!i10b 1
