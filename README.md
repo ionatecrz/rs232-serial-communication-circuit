@@ -50,7 +50,7 @@ This project focuses on designing a serial communication circuit using the RS-23
 
 ## Author
 
-- **Your Name**  
+- **Íñigo de Oñate Cruz**  
 - **Contact**: [LinkedIn](https://www.linkedin.com/in/%C3%AD%C3%B1igo-de-o%C3%B1ate-cruz-855b55263/)
 
 ## License
